@@ -17,7 +17,7 @@ The website uses **HTML**, **CSS**, **Bootstrap**, and **JavaScript** to create 
 <img width="800" height="500" alt="Preview of homepage.html" src="https://github.com/user-attachments/assets/20d3d447-409c-4372-a9b9-0195800edcd5" />
 
 ### Prime Page (`prime.html`)
-<img width="800" height="500" alt="Preview of prime.html" src="https://github.com/user-attachments/assets/20d3d447-409c-4372-a9b9-0195800edcd5" />
+<img width="800" height="500" alt="Preview of prime.html" src="https://github.com/user-attachments/assets/9ad19de6-3e4d-4750-b783-33a2134ec055" />
 
 ---
 
@@ -36,7 +36,7 @@ The website uses **HTML**, **CSS**, **Bootstrap**, and **JavaScript** to create 
 - **HTML5**  
 - **CSS3**  
 - **Bootstrap 4.5**  
-- **JavaScript (Vanilla)**  
+- **JavaScript**  
 
 ---
 
